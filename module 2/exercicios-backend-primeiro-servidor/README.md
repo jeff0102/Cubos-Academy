@@ -17,3 +17,6 @@ Preencha a checklist para fazer os exercícios:
 -   [ ] Copiar a url do seu fork e enviar na plataforma
 
 ###### tags: `módulo 2` `exercícios` `lógica` `nodeJS`
+
+```python
+pip install -r requirements.txt

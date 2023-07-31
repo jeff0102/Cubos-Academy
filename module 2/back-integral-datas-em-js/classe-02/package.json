@@ -1,0 +1,10 @@
+{
+  "name": "classe-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
